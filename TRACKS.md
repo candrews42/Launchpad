@@ -68,13 +68,15 @@ Focus areas: Storage, UX, Middleware, Learning
 
 ## Token Engineering: (re-)invent economic mechanisms by using simulations
 
+The [Token Engineering Challenge](https://docs.google.com/document/d/1WoIPlsxB-jdi1zExYB7hqySPribOkL6J_q-uYodv-e8/edit#heading=h.2na03sn65r0q) document is now available!
+
 Cryptoeconomic systems will allow us to establish new rules and economic incentives for blockchain ecosystems. For the first time in history we will be able to define such systems from scratch and use tokens as a programmable representation of value.
 
 To develop such systems we can apply tools and methods from complex systems engineering. One core element are simulations that allow us to verify a specific system design before launching it to the real world. Over the last months, BlockScience developed a token modeling framework called [cadCAD](https://cadcad.org/), which already sports a vibrant [community](https://community.cadcad.org/).
 
 [CommonsStack.org](https://commonsstack.org) has [open-sourced cadCAD at the tegg.io conference in August](https://youtu.be/qjdjX2m_p0Q) - it is now available to everyone to start simulating token economies.
 
-The TokenEngineering track seeks developers to use cadCAD to validate and improve a given cryptoeconomic building block, or create one.
+The TokenEngineering track seeks developers to use cadCAD to validate and improve a given cryptoeconomic building block, or create one. 
 
 In our introductory workshops you’ll learn how to design a token system from scratch, break it down to cryptoeconomic building blocks, think multiple layers of abstraction and use simulations to validate and iterate on a given module. This requires basic knowledge in Python, system dynamics, and token models.
 
